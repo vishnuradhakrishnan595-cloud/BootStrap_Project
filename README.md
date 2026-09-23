@@ -102,15 +102,6 @@ Through this project, I practiced:
 * Structuring a frontend project
 * Using Git and GitHub for version control
 
-## 👨‍💻 Author
-
-**Vishnu Radhakrishnan Nair**
-
-BCA Graduate | Python Full-Stack Developer
-
-### GitHub
-
-https://github.com/vishnuradhakrishnan595-cloud
 
 ---
 
